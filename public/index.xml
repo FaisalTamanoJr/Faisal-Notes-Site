@@ -6,17 +6,23 @@
       <description>Last 10 notes on Faisal&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>awesome</title>
-    <link>https://quartz.jzhao.xyz/folder/a</link>
-    <guid>https://quartz.jzhao.xyz/folder/a</guid>
-    <description>this is text.</description>
-    <pubDate>Wed, 12 Jun 2024 03:15:33 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
+    <title>About</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This site contains my notes that I decide to publish.</description>
-    <pubDate>Wed, 12 Jun 2024 02:49:13 GMT</pubDate>
+    <description>Welcome Hi! This is Faisal Tamano Jr.‘s Notes. I’ll be keeping notes I want to publish online here. Tip To search content by tags, you can either press ⌘/ctrl + shift + K or start your query with # Related Links Class Notes Flashcards .</description>
+    <pubDate>Wed, 12 Jun 2024 04:51:26 GMT</pubDate>
+  </item><item>
+    <title>2024 DLSU Medical Requirements</title>
+    <link>https://quartz.jzhao.xyz/School/2024_dlsu_medical_requirements</link>
+    <guid>https://quartz.jzhao.xyz/School/2024_dlsu_medical_requirements</guid>
+    <description>Drug Testing Info Detailed process Steps Secure and verify the drug testing consent form (if not yet submitted). Schedule an appointment through MLS. Check if you received a confirmation email.</description>
+    <pubDate>Wed, 12 Jun 2024 04:19:11 GMT</pubDate>
+  </item><item>
+    <title>Software Recommendations</title>
+    <link>https://quartz.jzhao.xyz/Journal/software_recommendations</link>
+    <guid>https://quartz.jzhao.xyz/Journal/software_recommendations</guid>
+    <description>...</description>
+    <pubDate>Wed, 12 Jun 2024 04:19:11 GMT</pubDate>
   </item>
     </channel>
   </rss>

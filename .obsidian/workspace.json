@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Quartz Commands.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Quartz Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Quartz Commands.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Quartz Commands.md"
               }
             }
           }
@@ -174,14 +174,20 @@
   },
   "active": "6539e77dee28712d",
   "lastOpenFiles": [
+    "content/index.md",
+    "public/404.html",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/index.html",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/index.css",
     "content/School/2024_dlsu_medical_requirements.md",
     "content/School",
     "content/Research",
     "content/Journal/software_recommendations.md",
     "content/Journal",
     "content/Quartz Commands.md",
-    "content/index.md",
-    "content",
     "content/Journal/bookmarks.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
@@ -189,12 +195,6 @@
     "docs/plugins/TableOfContents.md",
     "docs/plugins/TagPage.md",
     "content/folder/a.md",
-    "public/index.xml",
-    "public/sitemap.xml",
-    "public/postscript.js",
-    "public/prescript.js",
-    "public/a.html",
-    "public/folder/a.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "content/Welcome.md",
