@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quartz Commands.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -174,6 +174,7 @@
   },
   "active": "6539e77dee28712d",
   "lastOpenFiles": [
+    "content/Quartz Commands.md",
     "content/index.md",
     "public/404.html",
     "public/index.xml",
@@ -187,7 +188,6 @@
     "content/Research",
     "content/Journal/software_recommendations.md",
     "content/Journal",
-    "content/Quartz Commands.md",
     "content/Journal/bookmarks.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
