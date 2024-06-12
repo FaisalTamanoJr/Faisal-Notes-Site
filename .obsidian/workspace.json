@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Quartz Commands.md",
+                "file": "content/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quartz Commands.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -174,14 +174,15 @@
   },
   "active": "6539e77dee28712d",
   "lastOpenFiles": [
-    "content/Journal/software_recommendations.md",
-    "content/index.md",
-    "content/Quartz Commands.md",
-    "content/Journal/bookmarks.md",
-    "content/School related/2024_dlsu_medical_requirements.md",
-    "content/School related",
+    "content/School/2024_dlsu_medical_requirements.md",
+    "content/School",
     "content/Research",
+    "content/Journal/software_recommendations.md",
     "content/Journal",
+    "content/Quartz Commands.md",
+    "content/index.md",
+    "content",
+    "content/Journal/bookmarks.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "node_modules/fast-url-parser/README.md",
@@ -194,7 +195,6 @@
     "public/prescript.js",
     "public/a.html",
     "public/folder/a.html",
-    "public/folder/index.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "content/Welcome.md",
@@ -211,7 +211,6 @@
     "pages/instrumental good.md",
     "pages/good will.md",
     "pages/progress-tracker.md",
-    "pages/moral standards.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
