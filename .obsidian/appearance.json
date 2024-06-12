@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "bolder_bold",
+    "no_title_embed",
+    "a",
+    "drop_shadow_image",
+    "fonts",
+    "no-title-embed"
+  ],
+  "nativeMenus": false
+}

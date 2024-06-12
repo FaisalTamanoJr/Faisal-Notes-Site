@@ -1,0 +1,36 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 10
+  },
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "assets",
+  "showUnsupportedFiles": false,
+  "spellcheck": true,
+  "showInlineTitle": true,
+  "propertiesInDocument": "source",
+  "spellcheckDictionary": [
+    "Incrementality",
+    "systems",
+    "Perfective",
+    "PDE",
+    "DEs",
+    "DEs",
+    "Productionizing",
+    "JAD",
+    "Linear in",
+    "Linear",
+    "variable",
+    "nutrients",
+    "monggo"
+  ],
+  "newFileFolderPath": "content",
+  "defaultViewMode": "preview",
+  "livePreview": true
+}

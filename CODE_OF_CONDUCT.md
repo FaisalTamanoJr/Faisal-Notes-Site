@@ -1,3 +1,10 @@
+---
+title: Citizen Code of Conduct
+aliases: 
+draft: true
+tags: 
+---
+
 # Citizen Code of Conduct
 
 ## 1. Purpose
@@ -34,10 +41,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 - Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people's personally identifying information ("doxing").
+- Posting or threatening to post other people’s personally identifying information (“doxing”).
 - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 - Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone's consent before touching them.
+- Inappropriate physical contact. You should have someone’s consent before touching them.
 - Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Advocating for, or encouraging, any of the above behavior.
@@ -71,11 +78,11 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 10. Contact Info
 
 j.zhao2k19@gmail.com
 
-## 11. License and attribution
+## 11. License and Attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 

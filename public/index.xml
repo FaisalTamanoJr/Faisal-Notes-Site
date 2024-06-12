@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Faisal&#039;s Notes</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Faisal&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>awesome</title>
+    <link>https://quartz.jzhao.xyz/folder/a</link>
+    <guid>https://quartz.jzhao.xyz/folder/a</guid>
+    <description>this is text.</description>
+    <pubDate>Wed, 12 Jun 2024 03:15:33 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This site contains my notes that I decide to publish.</description>
+    <pubDate>Wed, 12 Jun 2024 02:49:13 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

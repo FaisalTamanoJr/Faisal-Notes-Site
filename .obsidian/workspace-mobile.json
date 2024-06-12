@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1f97b60af60dae5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a5fa2e6a254377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e7d5c90c4b6b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b3a42e9905afcd0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8dd4724beb48e8f4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf1eacb92a030d8e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bc4c9483a741f776",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "970c204d8b102178",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "d223c0c049be5a6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f8b365c9c44178ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-trim-whitespace:Trim whitespace": false,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "14e7d5c90c4b6b86",
+  "lastOpenFiles": [
+    "pages/contents.md",
+    "pages/ENGENVI.md",
+    "README.md",
+    "pages/SOFDESG.md",
+    "pages/SOFDESG - Lesson 10.md",
+    "pages/SOFDESG - Lesson 9.md",
+    "pages/post-implementation evaluation.md",
+    "pages/pilot site.md",
+    "pages/phased operation.md",
+    "pages/pilot operation.md",
+    "pages/system changeover.md",
+    "pages/parallel cutover.md",
+    "pages/direct cutover.md",
+    "pages/CALENG3.md",
+    "pages/CALENG3 - Lesson 5.md",
+    "pages/progress-tracker.md",
+    "pages/Laplace transforms of eat f(t).md",
+    "pages/Laplace transforms of F(t).md",
+    "pages/ENGDATA - Lesson 7.md",
+    "pages/laplace operator.md",
+    "pages/laplace transform.md",
+    "pages/standard normal distribution.md",
+    "pages/ENGDATA - Lesson 8.md",
+    "pages/central limit theorem.md",
+    "pages/sampling distributions.md",
+    "pages/statistic.md",
+    "assets/cardinality notation.jpg",
+    "assets/rcl series.jpg",
+    "assets/sampling distributions.pdf",
+    "assets/chemical solutions first order ode.jpg",
+    "assets/CALENG3 - Bernouilli's Equation Practice.pdf",
+    "assets/CALENG3 - Linear DE Practice.pdf",
+    "assets/CALENG3 - Exact DE Practice.pdf",
+    "assets/CALENG3 - Homogeneous DE Practice.pdf",
+    "assets/CALENG3 - Variable Separable Practice.pdf",
+    "assets/Statistical-Tables.pdf",
+    "assets/matter cycles phases.jpeg",
+    "assets/strategic plans to business results.jpg",
+    "assets/energy flow.jpg",
+    "assets/user stories card.jpg",
+    "assets/kinds of prototype.jpg",
+    "assets/spiral model example.jpg",
+    "assets/spiral model.jpg",
+    "Listing",
+    "ISO",
+    "templates"
+  ]
+}
