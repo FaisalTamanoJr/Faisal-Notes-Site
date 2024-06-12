@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e99ae72c22951bdb",
+        "id": "ca9d5dbb4050d852",
         "type": "tabs",
         "children": [
           {
-            "id": "6539e77dee28712d",
+            "id": "8bf4ec863f98d7e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Research/minimum_wage_in_the_philippines.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Research/minimum_wage_in_the_philippines.md",
+                "file": "content/Blog/the_categorical_imperative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Research/minimum_wage_in_the_philippines.md",
+                "file": "content/Blog/the_categorical_imperative.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Research/minimum_wage_in_the_philippines.md"
+                "file": "content/Blog/the_categorical_imperative.md"
               }
             }
           }
@@ -161,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,29 +167,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6539e77dee28712d",
+  "active": "5ad3b669f9bfa3c4",
   "lastOpenFiles": [
-    "content/School/2024_dlsu_medical_requirements.md",
-    "content/Research/minimum_wage_in_the_philippines.md",
-    "content/Journal/software_recommendations.md",
-    "content/Quartz Commands.md",
     "public/404.html",
-    "public/index.xml",
-    "public/sitemap.xml",
-    "public/index.html",
-    "public/postscript.js",
-    "public/prescript.js",
-    "public/index.css",
-    "public/Research/minimum_wage_in_the_philippines.html",
-    "public/Journal/Software-Recommendations.html",
-    "public/tags/Economy.html",
-    "content/index.md",
-    "templates/Citations Template.md",
-    "content/kant.md",
     "public/static/og-image.png",
     "public/static/icon.png",
-    "content/Journal/bookmarks.md",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags/Psychology.html",
+    "public/tags/Software.html",
+    "public/tags/Philosophy.html",
+    "public/tags/Economy.html",
+    "public/tags",
+    "content/Blog/software_recommendations.md",
+    "content/School/2024_dlsu_medical_requirements.md",
+    "content/School/Assignment Preparation/authenticity_scale.md",
+    "content/Blog/the_categorical_imperative.md",
+    "content/templates/Citations Template.md",
     "README.md",
+    "content/index.md",
+    "School/Assignment Preparation.md",
+    "content/Quartz Commands.md",
+    "assets/authenticity scale.png",
+    "content/Research/minimum_wage_in_the_philippines.md",
+    "content/Journal/software_recommendations.md",
+    "content/kant.md",
+    "content/Journal/bookmarks.md",
     "CODE_OF_CONDUCT.md",
     "node_modules/fast-url-parser/README.md",
     "docs/plugins/TableOfContents.md",
@@ -208,10 +208,6 @@
     "pages/GEETHIC - Lesson 5.md",
     "pages/hypothetical imperative.md",
     "pages/GEETHIC.md",
-    "pages/GEETHIC - Lesson 4.md",
-    "pages/GEETHIC - Lesson 3.md",
-    "pages/GEETHIC - Lesson 2.md",
-    "pages/GEETHIC - Lesson 1.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
@@ -219,7 +215,6 @@
     "assets/independent source transformation.webp",
     "assets/wye to delta.webp",
     "assets/delta to wye.webp",
-    "assets/wye-delta circuit.webp",
     "1. Fleeting Notes/Todo List.canvas",
     "1. Fleeting Notes/Filipino Indolence Canvas.canvas",
     "1. Fleeting Notes/Filipino Indolence Essay Structure.canvas",

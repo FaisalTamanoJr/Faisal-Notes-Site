@@ -1,8 +1,8 @@
 ---
 title:
-aliases: 
+aliases: []
 draft: true
-tags: 
+tags: []
 ---
 
 ## Quartz V4
