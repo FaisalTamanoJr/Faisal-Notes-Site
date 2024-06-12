@@ -11,8 +11,13 @@
             "id": "8bf4ec863f98d7e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Blog/the_categorical_imperative.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -167,7 +172,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ad3b669f9bfa3c4",
+  "active": "8bf4ec863f98d7e4",
   "lastOpenFiles": [
     "public/404.html",
     "public/static/og-image.png",

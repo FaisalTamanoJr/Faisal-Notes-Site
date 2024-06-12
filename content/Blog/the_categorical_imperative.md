@@ -17,6 +17,7 @@ It claims that generous actions with moral worth are not prompted by natural inc
 
 > [!quote]
 > *We cannot too much or too often repeat our warning against this lax and even mean habit of thought which seeks for its principle amongst empirical motives and laws; for human reason in its weariness is glad to rest on this pillow and in a dream of sweet illusions it substitutes for morality a bastard patched up from limbs of various derivation, which looks like anything one chooses to see in it; only not like a virtue to one who has once beheld her in her true form*
+> ‎
 — Kant, 1965
 
 Kant contends that our rational will (or reason) solely underlies morality, independent of empirical observation. Consequently, he claims that our moral knowledge comes before human experience, and as such, moral reasoning is based on reason alone—even without even the aid of human experience.
@@ -27,7 +28,8 @@ Kant believes that morality is necessary, absolute, and universal; therefore, it
 
 > [!quote]
 > *…this Good will should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing, and there should remain only the Good Will,… then, like a jewel, it would still shine by its own light, as a thing which has its whole value in itself. Its usefulness or fruitfulness can neither add to nor take away anything from this value*
-— Kant, 1965
+> ‎
+> — Kant, 1965
 
 For Kant, the highest good is one that is intrinsically valuable—which he referred to as *moral good*—as opposed to the derived *nonmoral good* found in utilitarianism.
 
