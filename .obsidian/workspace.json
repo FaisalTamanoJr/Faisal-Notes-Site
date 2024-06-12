@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Blog/software_recommendations.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Blog/software_recommendations.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Blog/software_recommendations.md",
+                "file": "content/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Blog/software_recommendations.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c7234cc89361b8f",
+  "active": "8bf4ec863f98d7e4",
   "lastOpenFiles": [
-    "content/Blog/the_categorical_imperative.md",
     "content/Blog/software_recommendations.md",
+    "content/Blog/the_categorical_imperative.md",
     "content/School/2024_dlsu_medical_requirements.md",
     "content/Research/authenticity_scale.md",
     "content/Research/minimum_wage_in_the_philippines.md",
