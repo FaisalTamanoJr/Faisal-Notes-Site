@@ -24,4 +24,3 @@ I’ll be keeping notes I want to publish online here.
 - [[Blog/]]
 - [[Research/]]
 - [[School/]]
-	- [[School/Assignment Preparation/]]

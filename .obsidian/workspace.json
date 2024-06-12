@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Blog/the_categorical_imperative.md",
+                "file": "content/Blog/software_recommendations.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"content/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Blog/the_categorical_imperative.md",
+                "file": "content/Blog/software_recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Blog/the_categorical_imperative.md",
+                "file": "content/Blog/software_recommendations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Blog/the_categorical_imperative.md"
+                "file": "content/Blog/software_recommendations.md"
               }
             }
           }
@@ -172,32 +172,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8bf4ec863f98d7e4",
+  "active": "8c7234cc89361b8f",
   "lastOpenFiles": [
+    "content/Blog/the_categorical_imperative.md",
+    "content/Blog/software_recommendations.md",
+    "content/School/2024_dlsu_medical_requirements.md",
+    "content/Research/authenticity_scale.md",
+    "content/Research/minimum_wage_in_the_philippines.md",
+    "content/index.md",
+    "content/templates/Citations Template.md",
+    "content/Quartz Commands.md",
+    "content/School/Assignment Preparation",
+    "content/templates",
+    "content/School",
+    "content/Research",
+    "content/Blog",
+    "content",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "public/static/contentIndex.json",
     "public/static",
     "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/index.html",
-    "public/tags/Psychology.html",
-    "public/tags/Software.html",
-    "public/tags/Philosophy.html",
-    "public/tags/Economy.html",
-    "public/tags",
-    "content/Blog/software_recommendations.md",
-    "content/School/2024_dlsu_medical_requirements.md",
-    "content/School/Assignment Preparation/authenticity_scale.md",
-    "content/Blog/the_categorical_imperative.md",
-    "content/templates/Citations Template.md",
     "README.md",
-    "content/index.md",
     "School/Assignment Preparation.md",
-    "content/Quartz Commands.md",
     "assets/authenticity scale.png",
-    "content/Research/minimum_wage_in_the_philippines.md",
     "content/Journal/software_recommendations.md",
     "content/kant.md",
     "content/Journal/bookmarks.md",
