@@ -16,7 +16,9 @@ tags: []
 > 3. Check if you received a confirmation email.
 > 4. Present an ID and a screenshot of the confirmation email onsite during the appointment.
 
-### Consent Form Verification Dates
+### Consent Form Verification
+
+You do not need to submit another consent form if you already submitted one last year. However, you must still get your DTC verified at the **Yuchengco Grounds**. The dates for the verification of ID122 students' DTC are the following:
 
 - June 13
 - June 14

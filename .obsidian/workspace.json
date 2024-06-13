@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/School/2024_dlsu_medical_requirements.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/School/2024_dlsu_medical_requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/index.md",
+                "file": "content/School/2024_dlsu_medical_requirements.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/School/2024_dlsu_medical_requirements.md"
               }
             }
           }
@@ -174,12 +174,12 @@
   },
   "active": "8bf4ec863f98d7e4",
   "lastOpenFiles": [
+    "content/index.md",
     "content/Blog/software_recommendations.md",
     "content/Blog/the_categorical_imperative.md",
     "content/School/2024_dlsu_medical_requirements.md",
     "content/Research/authenticity_scale.md",
     "content/Research/minimum_wage_in_the_philippines.md",
-    "content/index.md",
     "content/templates/Citations Template.md",
     "content/Quartz Commands.md",
     "content/School/Assignment Preparation",
