@@ -18,7 +18,7 @@ tags: []
 
 ### Consent Form Verification
 
-You do not need to submit another consent form if you already submitted one last year. However, you must still get your DTC verified at the **Yuchengco Grounds**. The dates for the verification of ID122 students' DTC are the following:
+You do not need to submit another consent form if you already submitted one last year. However, you must still get your DTC verified at the **Yuchengco Grounds**. The dates for the verification of ID122 students’ DTC are the following:
 
 - June 13
 - June 14

@@ -5,14 +5,12 @@ draft: false
 tags: [Psychology]
 ---
 
-## Authenticity Scale
-
-### Sources
+## Sources
 
 1. Alex Mathew Wood, P. Alex Linley, John Maltby, Journal of Counseling Psychology, “[The Authentic Personality: A Theoretical and Empirical Conceptualization and the Development of the Authenticity Scale](http://dx.doi.org/10.1037/0022-0167.55.3.385)” - 2008-07
 2. Ben G. Yacobi, Philosophy Now, “[The Limits of Authenticity](https://philosophynow.org/issues/92/The_Limits_of_Authenticity)” - 2012
 
-### Assignment Instructions
+## Assignment Instructions
 
 1. Answer the authenticity scale and discuss the implications of your score to your personal life—particularly about how this scale contributes to your self knowledge.
 2. Read the attached article and share your reaction towards the main points raised by the author
@@ -20,7 +18,7 @@ tags: [Psychology]
 	2. Do you think authenticity is achievable?
 3. Submit your reflection paper in any of these formats: .doc, .docx., .pdf
 
-### Test Results
+## Test Results
 
 | 1                           | 2   | 3   | 4   | 5   | 6   | 7                      |
 | --------------------------- | --- | --- | --- | --- | --- | ---------------------- |
@@ -47,11 +45,11 @@ tags: [Psychology]
 | Authentic Living             | 14       |
 | Accepting External Influence | 22       |
 
-### The Limits of Authenticity
+## The Limits of Authenticity
 
-#### Notable Points
+### Notable Points
 
-##### Common view
+#### Common view
 
 - Common view of being _authentic_
 	- Being true and honest with oneself and others
@@ -63,7 +61,7 @@ tags: [Psychology]
 - The unique nature of each individual is best seen not in who he is, but in who he becomes, and becoming authentic is a continuous process, not an event.
 - It involves not just knowing oneself, but also recognizing others and the mutual influence between individuals
 
-##### Philosopher’s Views
+#### Philosopher’s Views
 
 - Jean-Jacques Rousseau (1712-78) argued that
 	- our personal authenticity is diminished because of our need to respect others due to societies that emphasizes hierarchy, inequality, and interdependence.
@@ -78,7 +76,7 @@ tags: [Psychology]
 - Albert Camus (1913-60) states that
 	- To be authentic, one must be aware of the absurdity of a world with no objective morality and purpose, and create meaning in life through rebellion against the absurdity
 
-##### Qualifications for the Concept of Authenticity
+#### Qualifications for the Concept of Authenticity
 
 - Authenticity can never be absolute, thereby the search for its absolute version is a fruitless endeavor.
 	- The self is always changing so absolute authenticity can only last shortly
@@ -97,7 +95,7 @@ tags: [Psychology]
 	- biases
 	- and wishful thinking
 
-##### Paradoxes of Authenticity
+#### Paradoxes of Authenticity
 
 - Authenticity is achieved by immersing in the outside world but not by letting it control you
 - Authenticity can only be achieved by immersing oneself in uncertainty but, at the same time, being uncertain entails that you are also uncertain of your own self.
@@ -105,7 +103,7 @@ tags: [Psychology]
 - True self-knowledge should account for the self-doubt and insecurity that exists after a difficult circumstance
 - We have an inaccurate depiction of authenticity because we are not fully aware of all the facts, resulting to us filling in the gaps with our own thoughts and observed facts
 
-#### Insights
+### Insights
 
 - Learning how to be authentic for the sake of self-fulfillment is an individualist and ego-based goal—as opposed to learning it to understand how your authenticity affects others, which is a more altruistic goal
 - Authenticity comes from within; whereas, inauthenticity comes from exposure to our social and cultural environment

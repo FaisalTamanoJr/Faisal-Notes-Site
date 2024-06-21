@@ -19,3 +19,4 @@ tags: [Software]
 | [qBittorrent](https://www.qbittorrent.org/)           | Torrenting                      |
 | [Logseq](https://logseq.com/)                         | Outliner                        |
 | [VeraCrypt](https://www.veracrypt.fr/en/Home.html)    | Disk encryption                 |
+| [Mathcha](https://www.mathcha.io/)                    | Mathematics editor              |
