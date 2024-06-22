@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/plans.md",
+                "file": "Research/capitalism.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/plans.md"
+                "file": "Research/capitalism.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/plans.md",
+                "file": "Research/capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,20 +127,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7e231ca5c5f556ce",
+  "active": "5ad3b669f9bfa3c4",
   "lastOpenFiles": [
-    "economic_systems_overview.md",
-    "Research/plans.md",
-    "socialism.md",
-    "communism.md",
-    "capitalism.md",
-    "Research/mabini_and_miller.md",
-    "Research/authenticity_scale.md",
-    "Research/the_categorical_imperative.md",
-    "Research/minimum_wage_in_the_philippines.md",
+    "Research/socialism.md",
     "index.md",
-    "Research.md",
+    "Research/authenticity_scale.md",
+    "Research/mabini_and_miller.md",
+    "Research/minimum_wage_in_the_philippines.md",
+    "Research/plans.md",
+    "Research/the_categorical_imperative.md",
+    "Research/economic_systems_overview.md",
     "School/2024_dlsu_medical_requirements.md",
+    "Research/communism.md",
+    "Research/capitalism.md",
+    "Research.md",
     "Blog/software_recommendations.md",
     "templates/citations_template.md",
     "content/Research/philosophical_analysis_of_immigration.md",
