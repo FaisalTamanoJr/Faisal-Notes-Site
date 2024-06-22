@@ -5,12 +5,11 @@
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
   "obsidian-timeline",
-  "image-converter",
-  "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "obsidian-linter",
   "obsidian-outliner",
   "obsidian-smart-typography",
   "tag-wrangler",
-  "click-clack"
+  "click-clack",
+  "obsidian-style-settings"
 ]

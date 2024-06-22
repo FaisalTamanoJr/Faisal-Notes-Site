@@ -32,5 +32,6 @@
   ],
   "newFileFolderPath": "content",
   "defaultViewMode": "preview",
-  "livePreview": true
+  "livePreview": true,
+  "showRibbon": false
 }
